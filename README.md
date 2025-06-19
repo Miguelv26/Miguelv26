@@ -22,6 +22,7 @@ Tengo 19 años y soy estudiante de sexto semestre de Ingeniería de sistemas en 
 
 <p align="center">
 <a href="https://github.com/Miguelv26">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Miguelv26&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguelv26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miguelv26&layout=compact&langs_count=8&theme=algolia"/>
 </a>
